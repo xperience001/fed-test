@@ -9,6 +9,8 @@ $ `npm install` - install dependencies
 
 $ `DEBUG=frontend-test:* npm start` - run the app in debug mode
 
+$ `npm test` - run the test
+
 ## Exercise
 - Write routes to render the addresses.njk template in the routes folder, you can also make changes to the template to improve it.
 - Create a post handler on the address route that makes a request to the address API using details in provided in the email.
